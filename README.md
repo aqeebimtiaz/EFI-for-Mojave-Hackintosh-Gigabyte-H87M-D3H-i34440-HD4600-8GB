@@ -21,7 +21,7 @@ Motherboard : Gigabyte H87M-D3H
 
 ## Issues
 
-The only issue still unresolved is the missing USB 3.0 acceleration that was present High Sierra but isn't available as of yet after the Mojave update.
+The only issue I'm facing right now is the missing USB 3.0 acceleration that was present High Sierra but isn't available (as of yet) after the Mojave update.
 
 I'll update this repo once I'll get this issue resolved.
 
